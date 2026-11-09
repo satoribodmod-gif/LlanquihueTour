@@ -21,7 +21,7 @@ src/main/java/
 ## Compilar y ejecutar
 
 1 Abre el proyecto en IntelliJ IDEA.
-2 Selecciona **Build → Build Project** o presiona Ctrl+F9.
+2 Selecciona **Build --> Build Project** o presiona Ctrl+F9.
 3 Abre src/main/java/app/Main.java.
 4 Presiona la flecha verde junto al método main y selecciona **Run Main.main()**.
 
